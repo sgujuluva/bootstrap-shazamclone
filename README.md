@@ -1,6 +1,6 @@
 ## Bootstrap- Shazam website-clone
 
-**[Test this app yourself](github.io)**
+**[https://sgujuluva.github.io/bootstrap-shazamclone/](github.io)**
 
 ---
 
