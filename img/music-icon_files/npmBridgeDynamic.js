@@ -1,1 +1,0 @@
-function resolveModuleURL(e){return shz.script.getDepUrl("".concat("/npm-bridge/dist/dynamic","/").concat(e))}shz.common.setWithNamespace("npmBridgeDynamic",shz,{import_WebAuthn:()=>import(resolveModuleURL("./WebAuthn-65006764.js"))});export{resolveModuleURL};
