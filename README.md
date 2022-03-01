@@ -4,7 +4,7 @@
 
 ---
 
-![Screenshot from Project](./images/project.png)
+![Screenshot from Project](./shazam-project.gif)
 
 #### Navigation
 
